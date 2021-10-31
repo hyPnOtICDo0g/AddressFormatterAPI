@@ -80,7 +80,7 @@ It's recommended to use v2 API as it performs better. v1 is just kept for legacy
 
 # Demo
 
-The API (v2) is available [here](https://addressformatterapi.herokuapp.com/api/v2).
+The API (v2) is available [here](https://addressformatterapi.herokuapp.com/api/v2). Snapshots of the working code output are [here](https://github.com/hyPnOtICDo0g/AddressFormatterAPI/tree/main/images/snapshots).
 
 It can be tested using **Postman** or any other relaible API testing application such as [httpie](https://github.com/httpie/httpie) or [arc-electron](https://github.com/advanced-rest-client/arc-electron).
 
